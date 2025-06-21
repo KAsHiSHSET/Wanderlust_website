@@ -1,5 +1,6 @@
 ﻿# Wanderlust_website
-### Screenshots
+# Screenshots
+### Frontend
 ### 1) For sign up/ login
 ![image](https://github.com/user-attachments/assets/ceee8ea8-0c6a-44ba-a021-d9c0ace578ba)
 
@@ -16,3 +17,9 @@
 ### 5) Maps
 
 ![image](https://github.com/user-attachments/assets/5ae72812-bcfb-4382-b6dd-fd40e8f63157)
+# Backend
+### 6) Users in MongoDB
+![image](https://github.com/user-attachments/assets/8ea636f2-d8fc-4044-ad0d-27488280aeb2)
+### 7) listings in MongoDB
+![image](https://github.com/user-attachments/assets/3f4efcff-96d0-4ba3-bda9-e69834d81594)
+
